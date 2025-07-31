@@ -3,6 +3,5 @@ public class Main {
         System.out.println("hello java");
     }
 }
-^Z   ¡ç Ctrl+Z ´©¸£°í Enter
 
 
